@@ -1,0 +1,92 @@
+{
+  "Machine Learning Engineer": [
+    {
+      "id": "ml_1",
+      "stem": "Which of the following is a common method to prevent overfitting in neural networks?",
+      "options": ["Dropout", "Gradient Boosting", "Principal Component Analysis", "K-Means Clustering"],
+      "correctIndex": 0,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ml_2",
+      "stem": "Which loss function is typically used for binary classification?",
+      "options": ["Mean Squared Error", "Cross-Entropy Loss", "Hinge Loss", "Euclidean Loss"],
+      "correctIndex": 1,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ml_3",
+      "stem": "In gradient descent, what does a very large learning rate typically cause?",
+      "options": ["Convergence to optimum faster", "Divergence or oscillation", "Exact global optimum", "Reduced variance"],
+      "correctIndex": 1,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ml_4",
+      "stem": "Which technique is used to make neural networks invariant to input translations in images?",
+      "options": ["Convolution", "Recurrent Layers", "Bag-of-Words", "Dropout"],
+      "correctIndex": 0,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ml_5",
+      "stem": "Which metric is most appropriate to evaluate a model on imbalanced binary classification?",
+      "options": ["Accuracy", "Precision-Recall AUC", "Mean Absolute Error", "RMSE"],
+      "correctIndex": 1,
+      "difficulty": "hard"
+    },
+    {
+      "id": "ml_6",
+      "stem": "What is 'batch normalization' primarily used for?",
+      "options": ["Make the model smaller", "Stabilize and accelerate training", "Reduce test set size", "Encrypt model weights"],
+      "correctIndex": 1,
+      "difficulty": "medium"
+    }
+  ],
+  "Data Scientist": [
+    {
+      "id": "ds_1",
+      "stem": "Which visualization is most appropriate to show the distribution of a single continuous variable?",
+      "options": ["Histogram", "Scatter plot", "Bar chart", "Boxplot (not for distribution)"],
+      "correctIndex": 0,
+      "difficulty": "easy"
+    },
+    {
+      "id": "ds_2",
+      "stem": "Which method reduces dimensionality while preserving variance?",
+      "options": ["PCA", "LDA", "KNN", "Decision Trees"],
+      "correctIndex": 0,
+      "difficulty": "medium"
+    },
+    {
+      "id": "ds_3",
+      "stem": "What does the p-value indicate in hypothesis testing?",
+      "options": ["Probability that the null hypothesis is true", "Probability of observing results at least as extreme given null is true", "Effect size", "Sample size"],
+      "correctIndex": 1,
+      "difficulty": "medium"
+    }
+  ],
+  "AI Product Manager": [
+    {
+      "id": "pm_1",
+      "stem": "Which activity is essential during product discovery for an AI feature?",
+      "options": ["User interviews", "Only collecting metrics", "Ignoring stakeholders", "Skipping MVP tests"],
+      "correctIndex": 0,
+      "difficulty": "easy"
+    },
+    {
+      "id": "pm_2",
+      "stem": "What is a key ethical concern when deploying AI to customers?",
+      "options": ["Model explainability", "Adding more features without testing", "Using deprecated UI", "Increasing latency only"],
+      "correctIndex": 0,
+      "difficulty": "medium"
+    },
+    {
+      "id": "pm_3",
+      "stem": "Which metric is important to measure the real-world impact of an AI recommendation system?",
+      "options": ["Business KPI uplift", "Number of model parameters", "Training time", "Number of epochs"],
+      "correctIndex": 0,
+      "difficulty": "medium"
+    }
+  ]
+}
