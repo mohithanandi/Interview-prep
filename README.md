@@ -31,31 +31,6 @@ It provides a clean, minimal interface built with **React (Vite)** and is struct
 
 ---
 
-## 📂 Project Structure
-InterviewPrep.AI/
-├─ backend/
-│ ├─ routes/
-│ │ ├─ questions.js
-│ │ └─ evaluate.js
-│ └─ data/
-│ └─ roles.json
-│
-├─ frontend/
-│ ├─ src/
-│ │ ├─ components/
-│ │ │ ├─ Home.jsx
-│ │ │ ├─ Quiz.jsx
-│ │ │ └─ Result.jsx
-│ │ ├─ styles/
-│ │ │ └─ index.css
-│ │ └─ App.jsx
-│ └─ vite.config.js
-│
-└─ README.md
-
-
----
-
 ## 🖥️ Getting Started
 
 ### 1️⃣ Clone the Repository
@@ -92,3 +67,4 @@ This project is licensed under the MIT License — feel free to use, modify, and
 💼 Author
 Mohitha Nandi
 Artificial Intelligence & Machine Learning
+
